@@ -1,4 +1,4 @@
-Just started learning about AI and this was my first apllication to it by doing a small speech recognition code using python
+Just started learning about AI and this was my first project of a small speech recognition code using python:
 
 
 
